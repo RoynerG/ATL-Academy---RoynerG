@@ -1,7 +1,7 @@
 {
   "category": "Programacion",
   "question": "¿Que lenguaje sirve para desarrollar una pagina web?",
-  "options": ["C++", "Javascript", "Python"],
+  "options": ["Javascript", "C++", "Python"],
   "answer": 0,
-  "explanation": "La programacion es una profesion particular que se dedica a realizar el desarrollo de software"
+  "explanation": "Javascript es un lenguaje para volver las paginas mas interactivas"
 }
