@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Programacion",
+    "description": "Preguntas relacionadas con lenguajes de programacion"
+  },
+  {
+    "category": "Libros",
+    "description": "Preguntas relacionadas con diversos Libros"
+  },
+  {
+    "category": "Diseño grafico",
+    "description": "Preguntas relacionadas con vectores, diseño grafico y colores"
+  },
+  {
+    "category": "Base de datos",
+    "description": "Preguntas relacionadas con SQL"
+  },
+  {
+    "category": "Historia",
+    "description": "Preguntas relacionadas con Colombia"
+  },
+  {
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con computadoras, programas, etc."
+  }
+]
