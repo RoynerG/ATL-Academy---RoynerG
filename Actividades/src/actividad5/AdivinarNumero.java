@@ -1,3 +1,5 @@
+package actividad5;
+
 import java.util.Scanner;
 public class AdivinarNumero {
   public static void main(String[] args) {
