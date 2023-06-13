@@ -1,4 +1,4 @@
-package ClassSix;
+
 
 public class Conteo {
     public static void main(String[] args) {

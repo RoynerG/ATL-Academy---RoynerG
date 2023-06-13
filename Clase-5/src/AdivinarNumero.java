@@ -1,4 +1,4 @@
-package ClassFive;
+
 
 import java.util.Scanner;
 public class AdivinarNumero {
