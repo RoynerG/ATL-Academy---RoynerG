@@ -1,4 +1,4 @@
-package actividad5;
+package ClassFive;
 import java.util.Scanner;
 
 public class CalculadoraDescuento {
