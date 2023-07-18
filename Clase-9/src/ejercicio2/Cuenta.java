@@ -35,13 +35,13 @@ public class Cuenta {
         }
         else{
             System.out.println("La cantidad: $"+cantidad+ " fue ingresada con éxito.");
-            cantidad+=cantidad;
+            this.cantidad+=cantidad;
 
         }
     }
 
     public void retirar(double cantidad){
         System.out.println("La cantidad: $"+cantidad+ " fue retirada con éxito.");
-        cantidad-=cantidad;
+        this.cantidad-=cantidad;
     }
 }
